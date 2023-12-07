@@ -33,12 +33,13 @@
         button:hover {
             background-color: gold;
         }
-
-
-    
-
-
-
-
-
+        #result {
+            margin-top: 20px;
+        }
     </style>
+</head>
+<body>
+
+</body>
+
+     <h2>Fantasy Football Trade Analyzer</h2>
